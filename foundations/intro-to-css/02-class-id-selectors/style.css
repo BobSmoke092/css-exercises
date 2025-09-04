@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: lightpink;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+#even {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.second {
+    font-size: 24px;
+}
+
+#evensquared {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
